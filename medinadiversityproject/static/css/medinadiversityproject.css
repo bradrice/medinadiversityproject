@@ -1,0 +1,47 @@
+display-4 .banner-title {
+    font-weight: 600;
+}
+
+.banner {
+    color: #fff;
+    text-shadow: 2px 2px 4px black;
+}
+
+.banner-sub {
+    color: #fff;
+    text-shadow: 2px 2px 4px black;
+    
+}
+
+h1.banner, h2.banner {
+    color: #fff;
+    text-shadow: 2px 2px 4px black;
+}
+
+.wrap {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content {
+    flex: 1;
+}
+
+.footer {
+    height: 60px;
+    border-top: 1px solid #aaa;
+    padding: 1em;
+    text-align: center;
+}
+
+.img-def {
+    max-width: 400px;
+    margin-left: auto;
+    margin-bottom: .5em;
+    margin-right: auto;
+}
+
+.banner-image {
+    margin-bottom: 12px;
+}
